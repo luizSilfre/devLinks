@@ -10,7 +10,7 @@ function toggleMode() {
       "Foto de Luiz Freitas, borda preta, cantando, com camisa cinza."
     )
   } else {
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avatar-dark.png")
     img.setAttribute(
       "alt",
       "Foto de Luiz Freitas, borda branca, cantando, com camisa cinza."
